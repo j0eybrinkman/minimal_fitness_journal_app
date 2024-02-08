@@ -1,5 +1,5 @@
 <fieldset class="col-md-6">
-    <legend class="text-center">Workout Log</legend>
+    <legend class="text-center mb-3">Workout Log</legend>
     <form action="<?php htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="POST">
         <div class="mb-3">
             <label for="exercise" class="form-label">Which Exercise?</label>
