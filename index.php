@@ -4,3 +4,4 @@
     include('workout_log.php');
     include('nutrition_log.php');
     include('footer.php');
+?>

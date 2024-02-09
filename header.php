@@ -1,4 +1,3 @@
-<?php include('styles.css'); ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
