@@ -9,7 +9,7 @@
 </head>
 <body>
 <header>
-    <h1 class="text-center mt-5">Minimal Fitness Journal App</h1>
+    <h1 class="text-center mt-5">Minimal Fitness Journal</h1>
 </header>
 <main class="container d-flex justify-content-center align-items-center mt-5">
 <div class="row row-cols-1 row-cols-md-2 g-5">
