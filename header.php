@@ -8,7 +8,7 @@
     <link rel="stylesheet" type="text/css" href="styles.php"></link>
     <title>Minimal Fitness Journal App</title>
 </head>
-<body class="bg-#ff0000">
+<body>
 <header>
     <h1 class="text-center mt-5">Minimal Fitness Journal App</h1>
 </header>

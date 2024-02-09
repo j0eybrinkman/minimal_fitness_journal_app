@@ -1,12 +1,6 @@
-<?php
-    include('header.php');
-?>
-
 <?php 
+    include('config/database.php');
+    include('header.php');
     include('workout_log.php');
     include('nutrition_log.php');
-?>
-
-<?php
     include('footer.php');
-?>
